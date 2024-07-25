@@ -1,0 +1,31 @@
+.src{
+    width:700px;
+    height: auto;
+    background-color: #f2f2f2;
+    display:block;
+    margin-left: auto;
+    margin-right: auto;
+    border:7px solid pink;
+    border-radius:50px;
+}
+.air{
+    width: 100%;
+    font-size: 40px;
+    text-align: center;  
+}
+h1{
+    text-align: center;
+    border:5px solid rgb(140, 213, 30);
+    border-radius:50px;
+}
+#child{
+    width:auto;
+    height: auto;
+    background-color: #5c53aa;
+    text-align: center;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    font-size: 20px;
+}
+.hello{
+    color:white;
+}
